@@ -1,2 +1,3 @@
 # Hello-World
 Learning
+Well I am just learning to code so yeah... I'm following the tutorial...
